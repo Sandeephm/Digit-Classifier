@@ -16,3 +16,23 @@ To run the recognition.py file use the following command
 ```
 python recognition.py model.h5
 ```
+
+![alt text](0.PNG?raw=true)
+
+![alt text](1.PNG?raw=true)
+
+![alt text](2.PNG?raw=true)
+
+![alt text](3.PNG?raw=true)
+
+![alt text](4.PNG?raw=true)
+
+![alt text](5.PNG?raw=true)
+
+![alt text](6.PNG?raw=true)
+
+![alt text](7.PNG?raw=true)
+
+![alt text](8.PNG?raw=true)
+
+![alt text](9.PNG?raw=true)
