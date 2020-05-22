@@ -8,7 +8,7 @@ To run the Handwriting.py file use the following command
 ```
 python handwriting.py model.h5
 ```
-![alt text](https://github.com/Digit-Classifier/blob/master/Model_train.PNG?raw=true)
+![alt text](Model_train.PNG?raw=true)
 
 Recognition.py files uses the trainned model.h5 files to predict handwritten digits. 
 
